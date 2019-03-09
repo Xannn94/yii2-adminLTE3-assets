@@ -1,0 +1,21 @@
+{
+    "name": "xannn94/yii2-adminlte3",
+    "description": "Package for adminLTE 3 theme.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","adminlte","adminlte3","adminlte3asset","admin-lte","admin-lte3","adminlte3-asset"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Khan",
+            "email": "xannn94@yandex.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xannn94\\adminlte3\\": ""
+        }
+    }
+}
